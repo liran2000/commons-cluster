@@ -7,7 +7,7 @@ The library is implemented with Curator on top of Apache ZooKeeper.
 Main purpose is Leader Election algorithm, with eliminating the "herd" effect.
 
 ## ZooKeeper Nodes Diagram
-![Clustering Library](./docs/Clustering Library.jpg)
+![Clustering Library](./docs/clustering_library.jpg)
 
 [clustering_library.drawio](./docs/clustering_library.drawio)
 
