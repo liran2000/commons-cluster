@@ -102,6 +102,7 @@ Full unit test is implemented. It is using embedded in-process ZooKeeper server 
 See ClusterControllerTest class.
 
 ## ZooKeeper Nodes - CLI
+
 ```
 *[zk: localhost:2181(CONNECTED) 1] ls /commons-cluster*
 
@@ -125,6 +126,11 @@ See ClusterControllerTest class.
 
 *[\_c\_7b23eb48-192a-417d-b449-d4f740a472eb-latch-0000000000, \_c\_ae317765-8257-4e85-ba3f-236c0aec84f5-latch-0000000001]*
 ```
+
+## Contributions
+ * [Contributing](CONTRIBUTING.md) - how to contribute.
+ * [Contributors](docs/CONTRIBUTORS.md) - Folks who have contributed, thanks very much!
+
 ## Licensing
 
 ```
